@@ -19,6 +19,7 @@ git clone https://github.com/DESalhi/Sudoku-Solver.git
 Navigate to the project directory and run the script `sudoku_solver.py`.
 
 cd Sudoku-Solver
+
 python sudoku_solver.py
 
 ## Usage
